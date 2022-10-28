@@ -1,1 +1,2 @@
 # odin-recipes
+This project will consist of a main index page which will have links to a few recipes. The intended purpose of this project is to build my HTML chops; I will revisit this project in the future to style it up with CSS.
