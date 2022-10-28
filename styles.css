@@ -1,0 +1,11 @@
+p {
+    color: red;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
